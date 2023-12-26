@@ -14,7 +14,10 @@ Print the round(d,2)
 ### Step 5: 
 End the program
 ### PROGRAM:
-  import math
+  #Program to find the distance between two points.
+#Developed by:ALLEN JOVETH P 
+#RegisterNumber:23009582
+import math
 def distance(x1,y1,x2,y2):
     dx=x2-x1
     dy=y2-y1
@@ -27,7 +30,8 @@ y2=6
 d=distance(x1,y1,x2,y2)
 print(round(d,2))
 ### OUTPUT:
-![output](output3.png)
+![image](https://github.com/allenjoveth/DISTANCE-BETWEEN-TWO-POINTS/assets/139422287/8bfc992a-475d-4f6d-a950-407a6695b13e)
+
 
 ### RESULT:
  Thus the distance between two points are successfully executed
